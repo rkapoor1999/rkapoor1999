@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center">A passionate Data Scientist/Data Engineer from Arizona, USA. Currently pursuing my Masters in Computer Science from Arizona State University, Tempe.</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gifcid=6c09b952nbs44qs8q4kdv09ogegk85irgxykrawvkcin9c5j&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🔭 I’m currently working on **Data Engineering and Biomechanics Projects**
 
