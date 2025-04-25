@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Data Scientist/Data Engineer from Arizona, USA. Currently pursuing my Masters in Computer Science from Arizona State University, Tempe.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-- 🔭 I’m currently working on **Data Engineering and Biomechanics Projects**
+- 🔭 I’m currently working on **Data Science, Analytics and GenAI Projects**
 
-- 🌱 I’m currently learning **AWS, Airflow, Apache Spark**
+- 🌱 I’m currently learning **Apache Spark, GenAI**
 
 - 👯 I’m looking to collaborate on **any new ideas in AI**
 
 - 💬 Ask me about **Stable Diffusion, Computer Vision, Deep Neural Networks**
 
-- 📫 How to reach me **rkapoor0320@gmail.com**
+- 📫 How to reach me **rkapoo22@asu.edu**
 
 - ⚡ Fun fact **I kick my motivation everyday to keep it alive**
 
